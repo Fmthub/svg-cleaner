@@ -6,7 +6,7 @@
 
 [🇺🇸 English](./README.md) | [🇨🇳 简体中文](./README_zh-CN.md)
 
-**SVG Cleaner** (by FMThub) 是 Web 开发工作流中缺失的一环。它连接了设计工具（Figma, Sketch）与前端实现（Iconfont, React 组件），解决了设计师导出的 SVG 在开发中常常遇到的“显示异常”、“无法变色”、“Iconfont 上传报错”等痛点。
+**SVG Cleaner** (by FMThub) 是连接设计与开发的完美桥梁。它无缝对接了设计工具（Figma, Sketch）与前端实现（Iconfont, React 组件），彻底解决了设计师导出的 SVG 在开发中常常遇到的“显示异常”、“无法变色”、“Iconfont 上传报错”等痛点。
 
 ---
 
